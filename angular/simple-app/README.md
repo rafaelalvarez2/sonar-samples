@@ -16,3 +16,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   ```dos
   sonar-scanner -D"sonar.projectKey=<projetKey>" -D"sonar.projectName=Angular Simple App Sample" -D"sonar.organization=<company>" -D"sonar.sources=." -D"sonar.host.url=https://sonarcloud.io" -D"sonar.login=<token>" -D"sonar.exclusions=**/node_modules/**"
   ```
+MERGE
